@@ -1,4 +1,3 @@
-# Machine-Learning-Project
-Binarization of historical documents
+# Binarization of historical documents
 
-An application built with Python and OpenCV which used Sauvola’s method for Binarization of historical documents. Implementing the algorithm on integral images produced results in less time.
+A Python application which uses Sauvola’s method for binarization of historical documents. Implementing and tuning the algorithm on integral images produced better results in minimal time.
