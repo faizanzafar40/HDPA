@@ -1,4 +1,4 @@
-# Binarization of historical documents
+# Historical Document Processing Application (HDPA)
 
 ## Brief Description
 
